@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 Download the "Freshwater Fish Disease Aquaculture in South Asia" dataset from Kaggle and place it in the `dataset/` directory following the structure shown above.
 
-Dataset link: https://www.kaggle.com/datasets/your-dataset-link
+Dataset link: (https://www.kaggle.com/datasets/subirbiswas19/freshwater-fish-disease-aquaculture-in-south-asia)
 
 ### 3. Train the Model (Only if training)
 
